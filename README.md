@@ -1,4 +1,4 @@
-# Browser APIs - Playwright Automation Server
+# Uiblocks - Agent tools
 
 A powerful web automation server built with Express.js, TypeScript, and Playwright that provides APIs for web searching, taking screenshots, and performing browser navigation actions.
 
